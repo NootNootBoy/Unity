@@ -1,0 +1,142 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 13.11.2012 08:12:22
+
+newmtl Material__318
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka DuraplatePants.png
+	map_Kd DuraplatePants.png
+
+newmtl Material__317
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka DuraplateBody.png
+	map_Kd DuraplateBody.png
+
+newmtl Material__322
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Headsrtap.png
+	map_Kd Headsrtap.png
+
+newmtl Material__323
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Button.png
+	map_Kd Button.png
+
+newmtl Material__324
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Button.png
+	map_Kd Button.png
+
+newmtl Material__315
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka DuraplateBody.png
+	map_Kd DuraplateBody.png
+
+newmtl Material__321
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka CommandoHelmet.png
+	map_Kd CommandoHelmet.png
+
+newmtl Material__148
+	Ns 10.0000
+	Ni 1.5000
+	d 0.3000
+	Tr 0.7000
+	Tf 0.3000 0.3000 0.3000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka CommandoHelmet.png
+	map_Kd CommandoHelmet.png
+
+newmtl Material__319
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka CommandoShoes.png
+	map_Kd CommandoShoes.png
+
+newmtl Material__320
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka CommandoShoes.png
+	map_Kd CommandoShoes.png
